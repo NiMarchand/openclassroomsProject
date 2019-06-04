@@ -1,0 +1,9 @@
+.spaceBetween {
+    display: flex;
+    justify-content: space-between;
+}
+
+.space {
+    display: flex;
+    justify-content: space-around;
+}
